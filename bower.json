@@ -1,0 +1,13 @@
+{
+  "name": "glide-tejas-thi",
+  "description": "Tejas for THI",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "angular-route": "~1.2.0",
+    "jquery": "1.10.2",
+    "bootstrap": "~3.1.1"
+  }
+}
