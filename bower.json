@@ -2,7 +2,7 @@
   "name": "glide-tejas-thi",
   "description": "Tejas for THI",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "angular": "1.2.x",
     "angular-mocks": "~1.2.x",
